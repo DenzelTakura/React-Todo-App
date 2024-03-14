@@ -1,0 +1,38 @@
+.todoContainer {
+    display: flex;
+}
+
+.miniForm {
+    background-color: rgb(22, 18, 18);
+    border-radius: 15px;
+    width: 100%;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.task {
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(205, 199, 238);
+    text-align: center;
+}
+
+.deleteBtn {
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-left: 1px;
+    height: 49px;
+    cursor: pointer;
+    margin-top: 5px;
+    background-color: rgb(236, 30, 64);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.completed{
+    text-decoration: line-through;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(205, 199, 238);
+    text-align: center;
+}
