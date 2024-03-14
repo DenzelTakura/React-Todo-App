@@ -1,3 +1,15 @@
+# Todo App
+
+
+Basic todo Application using React.js. Pust into practice styling using modules, creation of components and breaking down of object into smaller components.
+
+A good template and start point for react beginners
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
